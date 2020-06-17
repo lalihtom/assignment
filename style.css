@@ -1,0 +1,29 @@
+body {
+    height: 5565px;
+    width: 1549px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+.navbar {
+    height: 92px;
+    width: 1519px;
+    margin: 0px;
+}
+
+.second {
+    height: 659px;
+    width: 1519px;
+    background-color: #CCCCCC;
+    position: absolute;
+}
+
+.third {
+    margin-top: 220px;
+
+
+}
+
+.four {
+    background-image: url(.img/profiles.png);
+}
